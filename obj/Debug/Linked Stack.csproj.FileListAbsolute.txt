@@ -1,0 +1,7 @@
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\bin\Debug\Linked Stack.exe.config
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\bin\Debug\Linked Stack.exe
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\bin\Debug\Linked Stack.pdb
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\obj\Debug\Linked Stack.csprojAssemblyReference.cache
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\obj\Debug\Linked Stack.csproj.CoreCompileInputs.cache
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\obj\Debug\Linked Stack.exe
+C:\Users\zen_f\source\repos\Linked Stack\Linked Stack\obj\Debug\Linked Stack.pdb
